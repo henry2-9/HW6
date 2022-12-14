@@ -1,0 +1,7 @@
+﻿D:\下載\VS studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(498,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+D:\下載\VS studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  p10-7.c
+  p10-9.c
+C:\Users\hongy\OneDrive\桌面\HW6\vscode\source\p10-9.c(22,18): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+  hw6.vcxproj -> C:\Users\hongy\OneDrive\桌面\HW6\vscode\temp\debug\hw6.exe
